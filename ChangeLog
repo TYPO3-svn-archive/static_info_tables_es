@@ -1,3 +1,13 @@
+2014-02-25  Romain Hobsterdre  <hobsty@gmail.com>
+	* Released to TER as version 6.0.0
+	* Upgraded to work with static_info_tables 6.0+ and TYPO3 6.0+
+	* Add countries: BL, BQ, CW, GG, IM, JE, ME, MF, RK, RS, SS, SX
+	* Remove countries: CS
+	* Add currencies:  AFN, AZN, GHS, MZN, RON, RSD, SDG, SSP, SRD, TMT, TRY, VEF, ZMW
+	* Remove currencies: GHC, MZM, ROL, SDD, TMM, VEB, ZMK,
+	* Remove static_taxes table
+	* Filled in table static_territories
+
 2006-12-19  Franz Holzinger  <kontakt@fholzinger.com>
 	* enable the function to load additional TCA to allow fields added from the language specific static_info_tables derivates
 	* Added a ChangeLog file
